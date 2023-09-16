@@ -52,3 +52,5 @@ When a process finishes its current CPU burst, it moves to IO and starts consumi
 The user should be able to pause the simulation at any time and view the list of processes in each queue, the currently running process, and the processes performing IO. 
 
 At the end of the simulation, you should output the Gantt chart, CPU utilization, and the average waiting time for all the processes. 
+
+![](1.png)
